@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Horoscope</string>
+
+    <string name="sign_aries">Aries</string>
+    <string name="sign_taurus">Taurus</string>
+    <string name="sign_gemini">Gemini</string>
+    <string name="sign_cancer">Cancer</string>
+    <string name="sign_leo">Leo</string>
+    <string name="sign_virgo">Virgo</string>
+    <string name="sign_libra">Libra</string>
+    <string name="sign_scorpio">Scorpio</string>
+    <string name="sign_sagittarius">Sagittarius</string>
+    <string name="sign_capricorn">Capricorn</string>
+    <string name="sign_aquarius">Aquarius</string>
+    <string name="sign_pisces">Pisces</string>
+
+    <string name="onboard_one">Welcome to Horoscope!\nDiscover the future that awaits you today.</string>
+    <string name="onboard_two">Unravel the mysteries of the universe through your daily horoscope.</string>
+    <string name="onboard_three">Every day is a new opportunity.\nReady?</string>
+</resources>
